@@ -23,7 +23,6 @@
 }
 
 
-
 * {
   box-sizing: border-box;
 }
@@ -45,10 +44,6 @@ img {
   padding-inline: 20px;
 }
 
-.site-main {
-  background-color: #FF7979;
-  
-}
 
 .hero-text-wrapper {
   width: 525px;
